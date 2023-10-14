@@ -1,7 +1,7 @@
 ## Olá!! Bem vindo ao meu perfil do github!! Eu sou a Charlene 
 
 
- Angular|Javascript|Sql|Java
+ React | NextJS|Typescript |Javascript |Sql | Java
 - 😄 Pronouns: She/Her
 <div align="center">
   <a href="https://github.com/charlenefialho"/>
