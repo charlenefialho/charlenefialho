@@ -11,12 +11,13 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Char-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Char-typescript" height="30" width="40" src="https://icons8.com.br/icon/uJM6fQYqDaZK/texto-datilografado">
   <img align="center" alt="Char-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Char-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Char-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Char-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Char-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=90&color=currentColor">
-  <img align="center" alt="Char-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Char-react" height="30" width="40" src="https://icons8.com.br/icon/NfbyHexzVEDk/reagir">
+ 
 </div>
 
 ##
